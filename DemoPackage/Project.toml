@@ -1,0 +1,7 @@
+name = "DemoPackage"
+uuid = "d8ed934a-8768-438e-a747-52becdcd4a01"
+authors = ["Matthew Scott <m.valckescott@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
